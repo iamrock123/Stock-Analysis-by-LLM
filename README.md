@@ -3,7 +3,7 @@
 
 This application is built based on the project I participated in for the [Generative AI Agents Developer Contest by NVIDIA and LangChain](https://www.udemy.com/course/generative-ai-ai-agent-chatgpt-api-key/), as well as an Udemy course. Unlike my previous project, this one uses an LLM agent to automatically fetch the latest key news about the company and analyze it. Finally, it provides detailed investment recommendations for the company.
 
-    ![image](./readme_img/Structure.png)
+![image](./readme_img/Structure.png)
 
 ## How to Run
 
